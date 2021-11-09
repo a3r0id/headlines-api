@@ -11,7 +11,7 @@ JSON file of curated top headlines that is consistently updated (programatically
 [<u>__Archive__</u>](https://gist.github.com/hostinfodev/4fde592a5992055d104f6595aedd4eae/revisions)
 
 ---
-[<u>__Documentation & Graphic Curation Example__</u>](https://headlines.recon.us.com)
+[<u>__Documentation & Usage Example__</u>](https://headlines.recon.us.com)
 
 
 ![](https://i.ibb.co/yq2Q7Vd/ezgif-6-46b4d3dfbf3c.gif)
