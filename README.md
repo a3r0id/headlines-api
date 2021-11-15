@@ -20,6 +20,6 @@ JSON file of curated top headlines that is consistently updated (programatically
 
 ### <ins>Updates</ins>
 
-#### November 15th, 2021 
-> Added a bunch of news sources, with emphasis on global (non-US) news sources.
+- #### November 15th, 2021 
+Added a bunch of news sources, with emphasis on global (non-US) news sources.
 
