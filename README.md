@@ -11,13 +11,6 @@ JSON file of curated top headlines that is consistently updated (programatically
 ---
 ### [<ins>__Archive__</ins>](https://gist.github.com/hostinfodev/4fde592a5992055d104f6595aedd4eae/revisions)
 
----
-### [<ins>__Documentation & Usage Example__</ins>](https://headlines.recon.us.com)
-
-
-![](https://i.ibb.co/yq2Q7Vd/ezgif-6-46b4d3dfbf3c.gif)
-
-
 ### <ins>Updates</ins>
 
 - #### November 15th, 2021 
