@@ -1,6 +1,4 @@
 # headlines-api [**Not Updating, For Now**]
-
-# **Down**:
 ### The engine is not updating at the moment, I will get this working asap! (12/05/2021)
 
 JSON file of curated top headlines that is consistently updated (programatically) every 20 minutes. 
