@@ -17,7 +17,7 @@ JSON file of aggregated top headlines that is consistently updated (programatica
 
 - #### December 23rd, 2021 
 The engine is updating again! 
-API endpoint is back at [headlines.recon.us.com](https://recon.us.com/headlines.json)
+API endpoint is back at [headlines.recon.us.com](https://headlines.recon.us.com/headlines.json)
 
 - #### November 15th, 2021 
 Added a bunch of news sources, with emphasis on global (non-US) news sources.
