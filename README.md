@@ -1,8 +1,6 @@
-# headlines-api [**Not Updating, For Now**]
-### The engine is not updating at the moment, I will get this working asap! (12/05/2021)
+# headlines-api
 
 JSON file of aggregated top headlines that is consistently updated (programatically) every 20 minutes. 
-
 
 ### <ins>__Base URL__</ins>
 `https://recon.us.com`
