@@ -3,7 +3,7 @@
 JSON file of aggregated top headlines that is consistently updated (programatically) every 20 minutes. 
 
 ### <ins>__Base URL__</ins>
-`https://recon.us.com`
+`https://headlines.recon.us.com`
 
 ### <ins>__JSON Endpoint__</ins>
 `/headlines.json`
