@@ -10,6 +10,7 @@ JSON file of aggregated top headlines that is consistently updated (programatica
 
 ### <ins>__JSON Endpoint (CORS-Friendly)__</ins>
 > Access-Control-Allow-Origin: *
+
 `/headlines.php`
 
 ---
