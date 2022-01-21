@@ -8,6 +8,10 @@ JSON file of aggregated top headlines that is consistently updated (programatica
 ### <ins>__JSON Endpoint__</ins>
 `/headlines.json`
 
+### <ins>__JSON Endpoint (CORS-Friendly)__</ins>
+> Access-Control-Allow-Origin: *
+`/headlines.php`
+
 ---
 ### [<ins>__Documentation & Usage Example__</ins>](https://headlines.recon.us.com)
 
