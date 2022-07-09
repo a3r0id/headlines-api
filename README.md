@@ -1,4 +1,6 @@
-# headlines-api
+# Smart Curator
+
+## API
 
 JSON file of aggregated top headlines that is consistently updated (programatically) every 20 minutes. 
 
