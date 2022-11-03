@@ -1,7 +1,7 @@
 # Smart Curator
 
 ## Issues per 11/01/2022:
-> Retro searches are erroneously returning results prior to 07/25/2022, I am working on a fix in hopes that the last few months of harvesting haven't been a waste :(. 
+> Retro searches are returning erroneous results per 07/25/2022, I am working on a fix and hope to get the history API back in order ASAP. 
 
 ### View the [Wiki](https://github.com/hostinfodev/smart-curator/wiki)
 
